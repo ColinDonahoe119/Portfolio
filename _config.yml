@@ -1,3 +1,4 @@
 # add the following to _config.yml file
-title: YOUR NAME
+title: Colin Donahoe
+logo: headshot.jpg
 theme: jekyll-theme-minimal
