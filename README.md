@@ -1,37 +1,47 @@
 # Portfolio
-I'm a Data Science and Mathematics student at Saint Joseph’s University with aspiring to apply my technical and numerical skills towards real world problems. This site features my projects, experience, and ways to get in touch.
+I'm a Data Science and Mathematics student at Saint Joseph’s University, motivated to apply analytical and technical skills to real-world problems. This site highlights my projects, experience, and ways to connect.
 
 ---
-
+# Education
+Saint Joseph's University '27
+Majors: Data Science and Mathematics
+Minor: Philosophy
+GPA: 3.76
+Extracurriculars: Member of Div.I Track and Field team. 
 
 ---
 
 ## 📂 Featured Projects
 
-### **Tennis TrackNet*
-A predictive model designed to help make optimal fantasy football lineup decisions using historical performance, team tendencies, and matchup-based adjustments.
+### **Two-Way Anova in R**
+Using a dataset containing Gender, Major (Accounting, Business Intelligence, Marketing), and Salary, I conducted a two-way ANOVA to analyze differences in salary across groups. The results—statistically significant—revealed an interaction effect: women had higher mean salaries in Accounting and Marketing, while men had higher mean salaries in Business Intelligence.
 
-### **UN Sustainable Development Goal Analysis**
-Data pipeline and visualization project examining global development trends and modeling how factors like innovation and education predict gender-equality metrics.
+link: https://github.com/ColinDonahoe119/Two-Way-Anova-in-R
 
-### **Additional Projects**
-Check out the **Projects** section on my site for more!
+### **Tennis Tracknet**
+TrackNet is a deep learning architecture for tracking small, fast-moving objects. I used a dataset of 19,835 annotated frames from broadcasted tennis matches to train a model that predicts ball location, trajectory, player positions, and ball state (flight, hit, bounce).
+This project includes the Python code that transforms a standard tennis broadcast clip into one with accurate ball, player, and court tracking overlays.
+
+link: https://github.com/ColinDonahoe119/Tracknet_Tennis_project
+
+
 
 ---
 
-## 🛠 Skills
-- **Languages:** Python, R, SQL, Java  
-- **Python Libraries:** pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
-- **ML:** Regression, classification, regularization, feature selection   
+## 🛠 Skills and Certifications
+- **General:** Discipline, Communication, Time-management, Critical Thinking
+- **Tech and Languages:** Python, R, SQL, Java, Excel, Microsoft Office 
+- **Certification:** Stanford Machine Learning (Coursera)
+  ![ML_certificate](/assets/img/ML_Certificate.pdf)   
 
 ---
 
 ## 📫 Contact
 Feel free to reach out!
 
-- **Email:** colindonahoe@example.com  
+- **Email:** colindonahoe4@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/colin-donahoe/  
-- **GitHub:** 
+- **GitHub:** https://github.com/ColinDonahoe119
 
 ---
 
