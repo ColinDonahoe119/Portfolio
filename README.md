@@ -38,7 +38,7 @@ link: https://github.com/ColinDonahoe119/Tracknet_Tennis_project
 - **General:** Discipline, Communication, Time-management, Critical Thinking
 - **Tech and Languages:** Python, R, SQL, Java, Excel, Microsoft Office 
 - **Certification:** Stanford Machine Learning (Coursera)
-  ![ML_certificate](/folder/ML_Certificate.pdf)   
+  ![ML certificate](/folder/Certificate.png)   
 
 ---
 
