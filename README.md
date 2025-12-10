@@ -4,9 +4,13 @@ I'm a Data Science and Mathematics student at Saint Joseph’s University, motiv
 ---
 # Education
 Saint Joseph's University '27
+
 Majors: Data Science and Mathematics
+
 Minor: Philosophy
+
 GPA: 3.76
+
 Extracurriculars: Member of Div.I Track and Field team. 
 
 ---
@@ -24,6 +28,8 @@ This project includes the Python code that transforms a standard tennis broadcas
 
 link: https://github.com/ColinDonahoe119/Tracknet_Tennis_project
 
+![Tennis Photo](/folder/tennis_photo.png)
+
 
 
 ---
@@ -32,7 +38,7 @@ link: https://github.com/ColinDonahoe119/Tracknet_Tennis_project
 - **General:** Discipline, Communication, Time-management, Critical Thinking
 - **Tech and Languages:** Python, R, SQL, Java, Excel, Microsoft Office 
 - **Certification:** Stanford Machine Learning (Coursera)
-  ![ML_certificate](/assets/img/ML_Certificate.pdf)   
+  ![ML_certificate](/folder/ML_Certificate.pdf)   
 
 ---
 
