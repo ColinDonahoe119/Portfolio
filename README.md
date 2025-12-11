@@ -17,10 +17,10 @@ Extracurriculars: Member of Div.I Track and Field team.
 
 ## 📂 Featured Projects
 
-### **Two-Way Anova in R**
-Using a dataset containing Gender, Major (Accounting, Business Intelligence, Marketing), and Salary, I conducted a two-way ANOVA to analyze differences in salary across groups. The results—statistically significant—revealed an interaction effect: women had higher mean salaries in Accounting and Marketing, while men had higher mean salaries in Business Intelligence.
+### NFL Playoff ML Model
+Implemented an NFL playoff prediction model from scratch, manually coding the sigmoid, cost function, and gradient descent optimization to train a logistic regression classifier using offensive and defensive EPA.
 
-link: https://github.com/ColinDonahoe119/Two-Way-Anova-in-R
+link: https://github.com/ColinDonahoe119/NFL_ML_Playoffs
 
 ### **Tennis Tracknet**
 TrackNet is a deep learning architecture for tracking small, fast-moving objects. I used a dataset of 19,835 annotated frames from broadcasted tennis matches to train a model that predicts ball location, trajectory, player positions, and ball state (flight, hit, bounce).
@@ -30,7 +30,15 @@ link: https://github.com/ColinDonahoe119/Tracknet_Tennis_project
 
 ![Tennis Photo](/folder/tennis_photo.png)
 
+### **Sustainable Development Goals Analysis**
+This project analyzes GDP per capita and multiple Sustainable Development Goal (SDG) indicators—with a focus on African nations—to explore patterns and compare discrepancies between developed and non-developed nations. I also perform regression analysis, where I attempt to predict the Climate action score (goal 13) with the Gender Equality score (goal 5), Decent work and economic growth score (goal 8), and industry, innovation, and infrastructure score (goal 9).
 
+link: https://github.com/ColinDonahoe119/Sustainable_Development_Goals
+
+### **Two-Way Anova in R**
+Using a dataset containing Gender, Major (Accounting, Business Intelligence, Marketing), and Salary, I conducted a two-way ANOVA to analyze differences in salary across groups. The results—statistically significant—revealed an interaction effect: women had higher mean salaries in Accounting and Marketing, while men had higher mean salaries in Business Intelligence.
+
+link: https://github.com/ColinDonahoe119/Two-Way-Anova-in-R
 
 ---
 
